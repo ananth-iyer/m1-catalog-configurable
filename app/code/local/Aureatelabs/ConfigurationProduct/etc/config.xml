@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <product>Aureatelabs_ConfigurationProduct_Model_Product</product>
+                </rewrite>
+            </catalog>
+        </models>
+    </global>
+</config>
